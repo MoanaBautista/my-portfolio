@@ -1,0 +1,25 @@
+body {
+    background-color: #F8C8DC;
+}
+
+h1, h2 {
+    background-color: plum;
+    font-family: Arial;
+    color: black;
+}
+
+
+p, li {
+    font-family: Arial;
+    color: black;
+}
+
+.fa-house, .fa-phone, .fa-envelope, .fa-facebook, .fa-github, .fa-linkedin{
+    color: palevioletred;
+}
+
+img {
+border-radius: 50%;
+border:8px solid palevioletred;
+}
+
